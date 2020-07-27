@@ -1,4 +1,4 @@
-# bfe_pl_logid
+# bfe_pl_hot_reload
 
 ### Describe
 用于动态加载配置文件
